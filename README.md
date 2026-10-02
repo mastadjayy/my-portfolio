@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website. This site serves as a digital home base for my professional work, featuring my background, technical skill set, and selected projects. 
 
-🌐 **Live Demo:** [https://my-portfolio-red-six-77.vercel.app/](https://my-portfolio-red-six-77.vercel.app/)
+🌐 **Live Demo:** [https://my-portfolio.vercel.app/](https://my-portfolio-ebon-pi-52.vercel.app/)
 
 ---
 
