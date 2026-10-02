@@ -160,7 +160,7 @@ export const contactInfo = {
   links: [
     { label: "LinkedIn", href: "https://www.linkedin.com/in/lionel-dabo", icon: "↗" },
     { label: "GitHub", href: "https://github.com/mastadjayy", icon: "↗" },
-    { label: "WhatsApp", href: "https://wa.me", icon: "💬" },
+    { label: "WhatsApp", href: "https://wa.me/0778087803?text=Bonjour,%20je%20souhaite%20avoir%20plus%20d'informations.", icon: "💬" },
   ],
   subjects: [
     { value: "web", label: "Développement Web / Next.js" },
